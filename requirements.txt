@@ -205,7 +205,7 @@ pyexcel==0.5.14
 pyexcel-io==0.5.20
 pyexcel-xlsx==0.5.7
 pyflakes==2.0.0
-Pygments==2.5.2
+Pygments==2.7.4
 PyJWT==1.7.1
 pylint==2.4.4
 PyMeeus==0.3.7
