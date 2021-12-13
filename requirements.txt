@@ -132,7 +132,7 @@ lml==0.0.9
 locket==0.2.0
 lockfile==0.12.2
 LunarCalendar==0.0.9
-lxml==4.4.2
+lxml==4.6.5
 Markdown==3.2
 MarkupSafe==1.1.1
 marshmallow==3.4.0
